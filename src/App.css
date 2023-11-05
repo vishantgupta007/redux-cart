@@ -1,0 +1,38 @@
+h2 {
+	margin-top: 5rem;
+}
+
+h3, meta-price {
+	color: #222;
+}
+
+.content .header {
+	font-size: 14px !important;
+	color: #777 !important;
+	text-align: center !important;
+	margin-bottom: 1rem;
+}
+
+.content .content-desc {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	margin: 2rem;
+	width: 100vw;
+}
+
+.cards {
+	padding: 20px;
+	width: 30%;
+}
+
+.image {
+	width: 70%;
+	/* height: 100vh; */
+	margin: 1rem auto;
+}
+image {
+	height: 40%;
+}
